@@ -1,25 +1,25 @@
 [
     {
         "id": "01",
-        "question" : "Who is The Greatest Footballer Of All time ?",
+        "question" : "What does JSX stand for in React?",
         "options": [
-            "Messi",
-            "Ronaldo",
-            "Antony",
-            "Maradona"
+          "JavaScript XML",
+          "JavaScript Extension",
+          "JavaScript Syntax",
+          "JavaScript Xcode"
         ],
-        "answer": "Antony"
+        "answer": "JavaScript XML"
     },
     {
         "id": "02",
-        "question" : "What is the best football team in London?",
+        "question" : "Which hook is used to perform side effects in React?",
         "options": [
-            "Chelsea",
-            "Arsenal",
-            "Tottenham",
-            "Brentford"
+            "useState",
+          "useEffect",
+          "useContext",
+          "useReducer"
         ],
-        "answer": "Chelsea"
+        "answer": "useEffect"
     },
     {
         "id": "03",
